@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wedin</string>
+
+    <string name="title_home">홈</string>
+    <string name="title_freemovie">무료</string>
+    <string name='title_eventpage'>이벤트</string>
+    <string name="title_mypage">My</string>
+    <string name="kaka_app_key">9b4275b91b78528d93421482798b73ef</string>
+    <string name="facebook_app_id">2405202579808940</string>
+    <string name="fb_login_protocol_scheme">fb2405202579808940</string>
+</resources>
