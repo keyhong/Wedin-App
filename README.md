@@ -2,7 +2,7 @@
 Wedin-Mobile-App
 ==================
 
-> 영화 추천 및 가격 비교 모바일 애플리케이션
+> Mobile Application for Movie Recommendations and Price Comparison
 
 #### App 기획서
 - app-proposal.pdf
